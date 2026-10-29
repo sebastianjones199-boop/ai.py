@@ -1,0 +1,6 @@
+import numpy as np
+
+son=np.array([1,2,3,4,5,6,7,8,9])
+son=son*2
+
+print(son)
